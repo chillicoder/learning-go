@@ -51,6 +51,7 @@ h3. Basics
 h3. Other
 
 * "Why Google's Go is a Bore":http://monoc.mo.funpic.de/go-rant/
+* "Go Language Patterns":http://sites.google.com/site/gopatterns/
 
 h2. License
 
